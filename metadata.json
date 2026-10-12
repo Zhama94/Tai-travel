@@ -1,0 +1,6 @@
+{
+  "name": "Son-Kul Nomad Horse Tours",
+  "description": "Конные экспедиции на высокогорное озеро Сон-Куль в Кыргызстане: дух свободы кочевников, перевалы Тянь-Шаня, ночевки в аутентичных юртах.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
